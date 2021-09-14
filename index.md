@@ -1,6 +1,10 @@
-
+##Bienvenido!!!
+##Flexiones de Pecho
 <div>Proyecto de Deteccion de Ejercicios (Lagartijas)</div>
-<button type="button" onclick="init()">Start</button>
+
+Este proyecto es una herramienta visual para detectar las flexiones de pecho 
+Los integrantes de este proyecto son: Jaime Avila y Gregori Amaguaya
+<button type="button" onclick="init()">Acceder!</button>
 <div><canvas id="canvas"></canvas></div>
 <div id="label-container"></div>
 <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.3.1/dist/tf.min.js"></script>
